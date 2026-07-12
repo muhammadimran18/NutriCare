@@ -1,0 +1,9 @@
+[
+  "test_pipeline.py::test_face_detection_raises_on_blank_image",
+  "test_pipeline.py::test_preprocess_face_output_shape",
+  "test_pipeline.py::test_recommendation_lookup_known_classes",
+  "test_pipeline.py::test_recommendation_lookup_unknown_class_has_safe_fallback",
+  "test_pipeline.py::test_validate_image_accepts_good_image",
+  "test_pipeline.py::test_validate_image_rejects_dark_image",
+  "test_pipeline.py::test_validate_image_rejects_low_resolution"
+]
